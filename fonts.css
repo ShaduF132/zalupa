@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "weloved";
+    src: url("../ShadowLife/fonts/Roboto/weloved/WelovedFreeTrial.otf");
+    src: url("../ShadowLife/fonts/Roboto/weloved/WelovedFreeTrial.otf?#iefix") format("embedded-opentype");
+        src: url("../ShadowLife/fonts/Roboto/weloved/WelovedFreeTrial.woff") format("woff");
+        src: url("../ShadowLife/fonts/Roboto/weloved/WelovedFreeTrial.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "CoffeForBreakfast";
+        src: url("../ShadowLife/fonts/Roboto/coffee_for_breakfast/CoffeeforBreakfast.ttf§") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "LuckyLady";
+        src: url("../ShadowLife/fonts/Roboto/lucky_lady/LuckyLady.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
